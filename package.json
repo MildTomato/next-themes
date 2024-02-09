@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "next-themes",
+  "version": "0.0.1",
   "scripts": {
     "prepublish": "pnpm build --filter=next-themes",
     "build": "turbo build",
